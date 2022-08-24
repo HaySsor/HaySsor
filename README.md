@@ -4,8 +4,11 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## Tech
 technology that I know or intend to learn 
+<br>
 K - I know 🧠
+<br>
 P- in the process of learning 💻
+<br>
 L - intend to learn ⌚
 
 - HTML - K
