@@ -5,23 +5,23 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 ## Tech
 technology that I know or intend to learn 
 <br>
-K - I know 🧠
+🧠 - I know 
 <br>
-P- in the process of learning 💻
+💻- in the process of learning 
 <br>
-L - intend to learn ⌚
+⌚ - intend to learn 
 
-- HTML - K
-- CSS - K
-- SCSS / BEM - K
-- NPM - K
-- Git - K
-- JavaScrit -K
-- REST API - K
-- Gulp -K
-- React - P
-- Vue - P
-- TypeScript - L
+- HTML - 🧠
+- CSS - 🧠
+- SCSS / BEM - 🧠
+- NPM - 🧠
+- Git - 🧠
+- JavaScrit -🧠
+- REST API - 🧠
+- Gulp -🧠
+- React - 💻
+- Vue - 💻
+- TypeScript - ⌚
 
 
 
