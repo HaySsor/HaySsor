@@ -19,9 +19,10 @@ technology that I know or intend to learn
 - JavaScrit -🧠
 - REST API - 🧠
 - Gulp -🧠
-- React - 💻
-- Vue - 💻
-- TypeScript - ⌚
+- TypeScript - 💻
+- React - ⌚
+- Vue - ⌚
+
 
 
 
