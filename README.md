@@ -34,7 +34,7 @@ technology that I know or intend to learn
 | HTML, CSS ,JS |  https://hayssor.github.io/Simple-Rpg/|
 | HTML, CSS ,TypeScript |  https://github.com/HaySsor/ToDoListTypeScript/|
 | JS |  https://github.com/HaySsor/JavaScript-Learn|
-| REST API | https://hayssor.github.io/Color-Palet/ |
+| REST API , TypeScript | https://hayssor.github.io/Color-Palet/ |
 | REST API | https://github.com/HaySsor/SearchMovie_App |
 | React |https://github.com/HaySsor/Travel_journall_Scrimba |
 | React |https://github.com/HaySsor/Airbnb_clone_scrimba |
