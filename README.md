@@ -24,7 +24,6 @@ technology that I know or intend to learn
 - Vue - ⌚
 
 
-https://github.com/HaySsor/MemeGenerator
 
 ## Project
 | Tech | Project |
