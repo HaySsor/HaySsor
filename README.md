@@ -2,6 +2,10 @@
 ## Hello 👋
 Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has begun 
 
+## I did today
+
+In Scrimb's course I did the React Context section, with all the challenges passed without help
+
 ## Tech
 technology that I know or intend to learn 
 <br>
