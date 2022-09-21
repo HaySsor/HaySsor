@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-In Scrimb's course I did the React Context section, with all the challenges passed without help
+I have started a new Typing Game project - I have added the status and appearance of the application 
 
 ## Tech
 technology that I know or intend to learn 
