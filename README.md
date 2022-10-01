@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-I have started a new Typing Game project - I have added the status and appearance of the application 
+Start learning Vue  
 
 ## Tech
 technology that I know or intend to learn 
