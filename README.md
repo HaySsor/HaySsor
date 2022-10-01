@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-Start learning Vue  
+I have started learning Vue 
 
 ## Tech
 technology that I know or intend to learn 
