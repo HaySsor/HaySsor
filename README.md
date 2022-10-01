@@ -24,8 +24,8 @@ technology that I know or intend to learn
 - REST API - 🧠
 - Gulp -🧠
 - TypeScript - 💻
-- React - 💻
-- Vue - ⌚
+- React - ⌚ / postponed
+- Vue - 💻
 
 
 
