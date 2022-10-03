@@ -48,6 +48,7 @@ technology that I know or intend to learn
 | React | https://github.com/HaySsor/Quzzical|
 | Vue | https://github.com/HaySsor/FirstVueProject|
 | Vue | https://github.com/HaySsor/MonsterSlayerVue|
+| Vue | https://github.com/HaySsor/GitHubProfileSearchVue|
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
