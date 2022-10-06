@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-learn more about components props, pass props, and slots
+Learn about Router in vue, nest routing and dynamic import 
 
 ## Tech
 technology that I know or intend to learn 
@@ -49,6 +49,7 @@ technology that I know or intend to learn
 | Vue | https://github.com/HaySsor/FirstVueProject|
 | Vue | https://github.com/HaySsor/MonsterSlayerVue|
 | Vue | https://github.com/HaySsor/GitHubProfileSearchVue|
+| Vue | [https://github.com/HaySsor/GitHubProfileSearchVue]|
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
