@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-Learn about Router in vue, nest routing and dynamic import 
+Learn about Router in vue, nest routing and dynamic import login page 
 
 ## Tech
 technology that I know or intend to learn 
