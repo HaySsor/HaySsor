@@ -4,7 +4,9 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-Learn about Router in vue, nest routing and dynamic import login page 
+Start Course in VueSchool Masterclass and this repo will show my progress 
+
+https://github.com/HaySsor/ForumVue
 
 ## Tech
 technology that I know or intend to learn 
