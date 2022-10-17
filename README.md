@@ -47,6 +47,8 @@ https://github.com/HaySsor/ForumVue
 | Vue | https://github.com/HaySsor/MonsterSlayerVue|
 | Vue | https://github.com/HaySsor/Travel_app_Vue|
 | Vue | https://github.com/HaySsor/ForumVue|
+| Angular | https://github.com/HaySsor/YanosikLoginPageAngular|
+| Angular | https://github.com/HaySsor/DogoPickerAngular|
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayssor&show_icons=true&locale=en&layout=compact" alt="hayssor" /></p>
 
