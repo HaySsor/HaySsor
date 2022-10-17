@@ -4,7 +4,7 @@ Hi, I'm Przemek and since the beginning of 2022 my adventure in programming has 
 
 ## I did today
 
-Start Course in VueSchool Masterclass and this repo will show my progress 
+Course in VueSchool Masterclass and this repo will show my progress 
 
 https://github.com/HaySsor/ForumVue
 
