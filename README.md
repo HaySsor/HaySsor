@@ -29,7 +29,6 @@
 | React | https://github.com/HaySsor/MemeGenerator|
 | React | https://github.com/HaySsor/Tenzies|
 | React | https://github.com/HaySsor/Quzzical|
-| Vue | https://github.com/HaySsor/FirstVueProject|
 | Vue | https://github.com/HaySsor/MonsterSlayerVue|
 | Vue | https://github.com/HaySsor/Travel_app_Vue|
 | Vue | https://github.com/HaySsor/ForumVue|
