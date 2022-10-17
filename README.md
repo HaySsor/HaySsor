@@ -4,6 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayssor&label=Profile%20views&color=0e75b6&style=flat" alt="hayssor" /> </p>
 
+## I did today
+
+Course in VueSchool Masterclass and this repo will show my progress 
+
+https://github.com/HaySsor/ForumVue
+
+
 - 🔭 I’m currently working on [Forum with Vue](https://github.com/HaySsor/ForumVue)
 
 - 🌱 I’m currently learning **Vue**
