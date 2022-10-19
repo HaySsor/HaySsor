@@ -19,7 +19,7 @@ https://github.com/HaySsor/ForumVue
 
 - 💻 Last Project [Quzzical with React](https://github.com/HaySsor/QuzzicalReact)
 
-- My CV web [HayssorPage](https://github.com/HaySsor/HaySsorPage)
+- 📄 My CV web [HayssorPage](https://github.com/HaySsor/HaySsorPage)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaySsor?tab=repositories](https://github.com/HaySsor?tab=repositories)
 
