@@ -6,9 +6,8 @@
 
 ## I did today
 
-Course in VueSchool Masterclass and this repo will show my progress 
+creating a simple application as part of a curse exercise using Vue
 
-https://github.com/HaySsor/ForumVue
 ##
 
 ## Info
