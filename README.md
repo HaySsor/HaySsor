@@ -7,7 +7,7 @@
 ## I did today
 
 creating a simple application as part of a curse exercise using Vue
-
+https://github.com/HaySsor/PerspectivePlayground
 ##
 
 ## Info
