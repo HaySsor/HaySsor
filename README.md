@@ -12,7 +12,7 @@ https://github.com/HaySsor/QuizVue
 
 ## Info
 
-- 🔭 I’m currently working on [Forum with Vue](https://github.com/HaySsor/ForumVue)
+- 🔭 I’m currently working on [Quiz with Vue](https://github.com/HaySsor/QuizVue)
 
 - 🌱 I’m currently learning **Vue**
 
