@@ -6,8 +6,8 @@
 
 ## I did today
 
-creating a simple application as part of a curse exercise using Vue
-https://github.com/HaySsor/PerspectivePlayground
+creating a simple Quiz application to consolidate knowledge of Vue basic
+https://github.com/HaySsor/QuizVue
 ##
 
 ## Info
