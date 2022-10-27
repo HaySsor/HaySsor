@@ -6,8 +6,8 @@
 
 ## I did today
 
-creating a simple Quiz application to consolidate knowledge of Vue basic
-https://github.com/HaySsor/QuizVue
+creating a Music App with Pina State and Talwind CSS 
+[Music App with Vue](https://github.com/HaySsor/MusicAppVue)
 ##
 
 ## Info
