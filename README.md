@@ -6,16 +6,16 @@
 
 ## I did today
 
-Start creating a Music App with Pina State and Talwind CSS 
+Start creating a Music App with Pinia State and Talwind CSS 
 [Music App with Vue](https://github.com/HaySsor/MusicAppVue)
 Every changes will be discripe here and in commit in project 
 ##
 
 ## Info
 
-- 🔭 I’m currently working on [Quiz with Vue](https://github.com/HaySsor/QuizVue)
+- 🔭 I’m currently working on [Music App with Vue](https://github.com/HaySsor/MusicAppVue)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue3/Pinia**
 
 - 💻 Last Project [Quzzical with React](https://github.com/HaySsor/QuzzicalReact)
 
