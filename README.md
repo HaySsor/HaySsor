@@ -58,15 +58,12 @@ technology that I know or intend to learn
 | ----- | ------ |
 | HTML, SCSS ,JS | https://hayssor.github.io/BowlingCenter/ |
 | HTML, SCSS ,JS | https://hayssor.github.io/HaySsorPage/|
-| JS |  https://github.com/HaySsor/JavaScript-Learn|
 | HTML, CSS ,TypeScript |  https://hayssor.github.io/Simple-Rpg/|
-| HTML, CSS ,TypeScript |  https://github.com/HaySsor/ToDoListTypeScript/|
 | REST API , TypeScript | https://hayssor.github.io/Color-Palet/ |
 | REST API | https://github.com/HaySsor/SearchMovie_App |
 | React | https://github.com/HaySsor/MemeGenerator|
 | React | https://github.com/HaySsor/Tenzies|
 | React | https://github.com/HaySsor/Quzzical|
-| Vue | https://github.com/HaySsor/MonsterSlayerVue|
 | Vue | https://github.com/HaySsor/PerspectivePlayground|
 | Vue | https://github.com/HaySsor/QuizVue|
 | Angular | https://github.com/HaySsor/YanosikLoginPageAngular|
