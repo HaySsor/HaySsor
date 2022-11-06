@@ -17,7 +17,7 @@ Every changes will be discripe here and in commit in project
 
 - 🌱 I’m currently learning **Vue3/Pinia**
 
-- 💻 Last Project [Quzzical with React](https://github.com/HaySsor/QuzzicalReact)
+- 💻 Last Project [Quzzical with Vue](https://github.com/HaySsor/QuizVue)
 
 - 📄 My CV web [HayssorPage](https://github.com/HaySsor/HaySsorPage)
 
