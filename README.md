@@ -6,14 +6,14 @@
 
 ## I did today
 
-Start creating a Music App with Pinia State and Talwind CSS 
-[Music App with Vue](https://github.com/HaySsor/MusicAppVue)
+Start creating a Calory counter app "Crabi Calory" with Pinia State and Scss 
+[Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
 Every changes will be discripe here and in commit in project 
 ##
 
 ## Info
 
-- 🔭 I’m currently working on [Music App with Vue](https://github.com/HaySsor/MusicAppVue)
+- 🔭 I’m currently working on [Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
 
 - 🌱 I’m currently learning **Vue3/Pinia**
 
@@ -63,6 +63,7 @@ technology that I know or intend to learn
 | React | https://github.com/HaySsor/Quzzical|
 | Vue | https://github.com/HaySsor/PerspectivePlayground|
 | Vue, REST API  | https://github.com/HaySsor/QuizVue|
+| Vue, Firebase  | https://github.com/HaySsor/MusicAppVue|
 | Angular | https://github.com/HaySsor/YanosikLoginPageAngular|
 | Angular | https://github.com/HaySsor/DogoPickerAngular|
 # 📊 GitHub Stats:
