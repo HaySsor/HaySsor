@@ -6,7 +6,7 @@
 
 ## I did today
 
-Start creating a Calory counter app "Crabi Calory" with Pinia State and Scss 
+Start creating a Calory counter app "Crabi Calory" with Vue3,Pinia State and Scss 
 [Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
 Every changes will be discripe here and in commit in project 
 ##
