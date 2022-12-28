@@ -15,7 +15,7 @@ Every changes will be discripe here and in commit in project
 
 - 🔭 I’m currently working on [Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
 
-- 🌱 I’m currently learning **Vue3/Pinia**
+- 🌱 I’m currently learning **Composition API/Pinia**
 
 - 💻 Last Project [Quzzical with Vue](https://github.com/HaySsor/QuizVue)
 
