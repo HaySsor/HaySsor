@@ -17,9 +17,7 @@ Every changes will be discripe here and in commit in project
 
 - 🌱 I’m currently learning **Composition API/Pinia**
 
-- 💻 Last Project [Quzzical with Vue](https://github.com/HaySsor/QuizVue)
-
-- 📄 My CV web [HayssorPage](https://github.com/HaySsor/HaySsorPage)
+- 💻 Last Project [Crypto Page](https://github.com/HaySsor/Crypto)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaySsor?tab=repositories](https://github.com/HaySsor?tab=repositories)
 
