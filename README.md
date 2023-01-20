@@ -6,16 +6,18 @@
 
 ## I did today
 
-Start creating a Calory counter app "Crabi Calory" with Vue3,Pinia State and Scss 
+Working at a Calory counter app "Crabi Calory" with Vue3,Pinia State and Scss 
 [Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
 Every changes will be discripe here and in commit in project 
+
+at the same time I am starting a React course : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 ##
 
 ## Info
 
-- 🔭 I’m currently working on [Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
+- 🔭 I’m currently working on [Crabi Calory App] in Vue.js with Composition API (https://github.com/HaySsor/Crabi-Calory)
 
-- 🌱 I’m currently learning **Composition API/Pinia**
+- 🌱 I’m currently learning **React**
 
 - 💻 Last Project [Crypto Page](https://github.com/HaySsor/Crypto)
 
@@ -43,8 +45,8 @@ technology that I know or intend to learn
 - JavaScrit -🧠
 - REST API - 🧠
 - Gulp -🧠
-- Vue - 💻
-- React - ⌚ / postponed
+- Vue - 🧠
+- React - 💻 
 - TypeScript - ⌚ / postponed
 - Angular ⌚
 
