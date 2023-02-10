@@ -5,12 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hayssor&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## I did today
-
-Working at a Calory counter app "Crabi Calory" with Vue3,Pinia State and Scss 
-[Crabi Calory App](https://github.com/HaySsor/Crabi-Calory)
-Every changes will be discripe here and in commit in project 
-
-at the same time I am starting a React course : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+I am starting a React course : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 ##
 
 ## Info
@@ -56,16 +51,11 @@ technology that I know or intend to learn
 | HTML, SCSS ,JS | https://hayssor.github.io/BowlingCenter/ |
 | HTML, SCSS ,JS | https://hayssor.github.io/HaySsorPage/|
 | HTML, CSS ,TypeScript |  https://hayssor.github.io/Simple-Rpg/|
-| REST API , TypeScript | https://hayssor.github.io/Color-Palet/ |
 | REST API | https://github.com/HaySsor/SearchMovie_App |
-| React | https://github.com/HaySsor/MemeGenerator|
-| React | https://github.com/HaySsor/Tenzies|
 | React | https://github.com/HaySsor/Quzzical|
-| Vue | https://github.com/HaySsor/PerspectivePlayground|
 | Vue, REST API  | https://github.com/HaySsor/QuizVue|
-| Vue, Firebase  | https://github.com/HaySsor/MusicAppVue|
+| Vue, Composition Api, Pinia, firebase | https://github.com/HaySsor/Crabi-Calory |
 | Angular | https://github.com/HaySsor/YanosikLoginPageAngular|
-| Angular | https://github.com/HaySsor/DogoPickerAngular|
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hayssor&theme=vue&hide_border=false)<br/>
