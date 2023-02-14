@@ -43,7 +43,7 @@ technology that I know or intend to learn
 - Vue / Composition API / Pina - 🧠
 - React - 💻 
 - TypeScript - ⌚ / postponed
-- Angular ⌚
+- C# ⌚
 
 ## Project
 | Tech | Project |
