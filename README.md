@@ -5,7 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=Hayssor&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## I did today
-I am starting a React course : https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+I completed a Wordle clone in React +TS https://github.com/HaySsor/Wordle_React-Ts
+I improved the project used by my current company to write down complaints : https://github.com/HaySsor/ComplaintesForm
 ##
 
 ## Info
