@@ -12,15 +12,18 @@ I improved the project used by my current company to write down complaints : htt
 
 ## Info
 
-- 🔭 I’m currently working on [Crabi Calory App] in Vue.js with Composition API (https://github.com/HaySsor/Crabi-Calory)
+- 🔭 I’m currently working on [ComplaintesForm] in React + TS (https://github.com/HaySsor/ComplaintesForm)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
-- 💻 Last Project [Crypto Page](https://github.com/HaySsor/Crypto)
+- 💻 Last Project [Wordle clone](https://github.com/HaySsor/Wordle_React-Ts)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaySsor?tab=repositories](https://github.com/HaySsor?tab=repositories)
 
 - 📫 How to reach me **Hayss007@gmail.com**
+
+- ⚔️ codewars profile : https://www.codewars.com/users/Hayss
+
 
 
 # 💻 Tech Stack:
@@ -43,21 +46,25 @@ technology that I know or intend to learn
 - REST API - 🧠
 - Gulp -🧠
 - Vue / Composition API / Pina - 🧠
-- React - 💻 
-- TypeScript - ⌚ / postponed
+- React - 🧠
+- Redux - 💻
+- TypeScript - 💻 
 - C# ⌚
 
 ## Project
 | Tech | Project |
 | ----- | ------ |
-| HTML, SCSS ,JS | https://hayssor.github.io/BowlingCenter/ |
-| HTML, SCSS ,JS | https://hayssor.github.io/HaySsorPage/|
-| HTML, CSS ,TypeScript |  https://hayssor.github.io/Simple-Rpg/|
-| REST API | https://github.com/HaySsor/SearchMovie_App |
-| React | https://github.com/HaySsor/Quzzical|
-| Vue, REST API  | https://github.com/HaySsor/QuizVue|
-| Vue, Composition Api, Pinia, firebase | https://github.com/HaySsor/Crabi-Calory |
-| Angular | https://github.com/HaySsor/YanosikLoginPageAngular|
+| HTML, SCSS ,vanillaJS | https://hayssor.github.io/BowlingCenter/ |
+| Vue |
+| ----- |
+| Vue Composition API |https://github.com/HaySsor/Crypto|
+| Vue, REST API| https://github.com/HaySsor/QuizVue |
+| Vue Composition API, Pinia, firebase | https://github.com/HaySsor/Crabi-Calory |
+| React |
+| ----- |
+| React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
+| React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hayssor&theme=vue&hide_border=false)<br/>
