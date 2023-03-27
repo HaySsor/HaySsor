@@ -56,12 +56,10 @@ technology that I know or intend to learn
 | ----- | ------ |
 | HTML, SCSS ,vanillaJS | https://hayssor.github.io/BowlingCenter/ |
 | Vue |
-| ----- |
 | Vue Composition API |https://github.com/HaySsor/Crypto|
 | Vue, REST API| https://github.com/HaySsor/QuizVue |
 | Vue Composition API, Pinia, firebase | https://github.com/HaySsor/Crabi-Calory |
 | React |
-| ----- |
 | React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
 | React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
 
