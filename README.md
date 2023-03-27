@@ -8,7 +8,6 @@
 I completed a Wordle clone in React +TS https://github.com/HaySsor/Wordle_React-Ts
 
 I improved the project used by my current company to write down complaints : https://github.com/HaySsor/ComplaintesForm
-##
 
 ## Info
 
