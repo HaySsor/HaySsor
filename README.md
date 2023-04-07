@@ -61,6 +61,7 @@ technology that I know or intend to learn
 | React |
 | React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
 | React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
+| React , TypeScript  | https://github.com/HaySsor/picSome |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
