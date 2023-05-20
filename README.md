@@ -5,17 +5,15 @@
 [![](https://visitcount.itsvg.in/api?id=Hayssor&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## I did today
-I completed a Wordle clone in React +TS https://github.com/HaySsor/Wordle_React-Ts
-
-I improved the project used by my current company to write down complaints : https://github.com/HaySsor/ComplaintesForm
+Start learning Next.js version 13
 
 ## Info
 
 - 🔭 I’m currently working on [ComplaintesForm] in React + TS (https://github.com/HaySsor/ComplaintesForm)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning Next.js
 
-- 💻 Last Project [Wordle clone](https://github.com/HaySsor/Wordle_React-Ts)
+- 💻 Last Project https://github.com/HaySsor/VanBorrow
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaySsor?tab=repositories](https://github.com/HaySsor?tab=repositories)
 
@@ -46,8 +44,8 @@ technology that I know or intend to learn
 - Gulp -🧠
 - Vue / Composition API / Pina - 🧠
 - React - 🧠
-- Redux - 💻
 - TypeScript - 💻 
+- Next.js 💻
 - C# ⌚
 
 ## Project
@@ -61,7 +59,7 @@ technology that I know or intend to learn
 | React |
 | React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
 | React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
-| React , TypeScript  | https://github.com/HaySsor/picSome |
+| React , TypeScript  | https://github.com/HaySsor/VanBorrow|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
