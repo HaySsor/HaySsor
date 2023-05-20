@@ -9,7 +9,7 @@ Start learning Next.js version 13
 
 ## Info
 
-- 🔭 I’m currently working on [ComplaintesForm] in React + TS (https://github.com/HaySsor/ComplaintesForm)
+- 🔭 I’m currently working on https://github.com/HaySsor/Next.js_imdc_clone
 
 - 🌱 I’m currently learning Next.js
 
