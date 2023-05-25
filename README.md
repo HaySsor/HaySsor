@@ -9,11 +9,11 @@ Start learning Next.js version 13
 
 ## Info
 
-- 🔭 I’m currently working on https://github.com/HaySsor/Next.js_imdc_clone
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning Next.js
 
-- 💻 Last Project https://github.com/HaySsor/VanBorrow
+- 💻 Last Project https://github.com/HaySsor/Next.js_imdc_clone
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaySsor?tab=repositories](https://github.com/HaySsor?tab=repositories)
 
@@ -60,6 +60,10 @@ technology that I know or intend to learn
 | React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
 | React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
 | React , TypeScript  | https://github.com/HaySsor/VanBorrow|
+| Next.js |
+| Next.js 13 , Tailwindcss  | https://github.com/HaySsor/Next.js_imdc_clone|
+
+https://github.com/HaySsor/Next.js_imdc_clone
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
