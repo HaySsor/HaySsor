@@ -59,7 +59,6 @@ technology that I know or intend to learn
 | React |
 | React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
 | React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
-| React , TypeScript  | https://github.com/HaySsor/VanBorrow|
 | Next.js |
 | Next.js 13 , Tailwindcss  | https://github.com/HaySsor/Next.js_imdc_clone|
 
