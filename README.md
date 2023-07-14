@@ -44,9 +44,11 @@ technology that I know or intend to learn
 - Gulp -🧠
 - Vue / Composition API / Pina - 🧠
 - React - 🧠
-- TypeScript - 💻 
-- Next.js 💻
-- C# ⌚
+- TypeScript - 💻
+-  C# 💻
+- Vue in work 👨🏼‍💻
+- Next.js ⌚
+
 
 ## Project
 | Tech | Project |
