@@ -5,13 +5,13 @@
 [![](https://visitcount.itsvg.in/api?id=Hayssor&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## I did today
-Start learning tests
+Start learning C#
 
 ## Info
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning C#
 
 - 💻 Last Project https://github.com/HaySsor/Next.js_imdc_clone
 
