@@ -9,7 +9,7 @@ Start learning C#
 
 ## Info
 
-- 🔭 I’m currently working on 
+- Vue in work 👨🏼‍💻
 
 - 🌱 I’m currently learning C#
 
@@ -46,7 +46,6 @@ technology that I know or intend to learn
 - React - 🧠
 - TypeScript - 💻
 -  C# 💻
-- Vue in work 👨🏼‍💻
 - Next.js ⌚
 
 
