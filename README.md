@@ -11,7 +11,7 @@ Start learning C#
 
 - Vue in work 👨🏼‍💻
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Swift
 
 - 💻 Last Project https://github.com/HaySsor/Next.js_imdc_clone
 
@@ -45,7 +45,7 @@ technology that I know or intend to learn
 - Vue / Composition API / Pina - 🧠
 - React - 🧠
 - TypeScript - 💻
--  C# 💻
+-  Swift 💻
 - Next.js ⌚
 
 
