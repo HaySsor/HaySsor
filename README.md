@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hayssor&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## I did today
-Start learning C#
+Start learning Swift
 
 ## Info
 
