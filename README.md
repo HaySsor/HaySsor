@@ -48,23 +48,6 @@ technology that I know or intend to learn
 -  Swift 💻
 - Next.js ⌚
 
-
-## Project
-| Tech | Project |
-| ----- | ------ |
-| HTML, SCSS ,vanillaJS | https://hayssor.github.io/BowlingCenter/ |
-| Vue |
-| Vue Composition API |https://github.com/HaySsor/Crypto|
-| Vue, REST API| https://github.com/HaySsor/QuizVue |
-| Vue Composition API, Pinia, firebase | https://github.com/HaySsor/Crabi-Calory |
-| React |
-| React , TypeScript  | https://github.com/HaySsor/ComplaintesForm |
-| React , TypeScript  | https://github.com/HaySsor/Wordle_React-Ts |
-| Next.js |
-| Next.js 13 , Tailwindcss  | https://github.com/HaySsor/Next.js_imdc_clone|
-
-https://github.com/HaySsor/Next.js_imdc_clone
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hayssor&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hayssor&theme=vue&hide_border=false)<br/>
